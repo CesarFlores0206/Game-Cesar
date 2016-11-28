@@ -1,0 +1,1 @@
+Report created: 	9/20/16	12:14:58 PM MSTProject name: hero_idle_animation.aepSource files collected to: 	/Volumes/Cesar/hero_idle_animation folderSource files collected: AllCollected comps:  	Skin_Hero	Number of collected files:  1Size of collected files:  330 KBCollected source files: 	/Volumes/Cesar/Skin_Hero.ai	Rendering plug-ins:	Classic 3D	
